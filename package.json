@@ -21,7 +21,7 @@
     ],
     "scripts": {
             "start": "node /lib/cors-anywhere.js"
-          }
+          },
     "files": [
         "lib/",
         "test/",
